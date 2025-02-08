@@ -17,8 +17,8 @@ I'm a BTech CSE student passionate about cloud technologies and building scalabl
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuparida2/himanshuparida2/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/himanshuparida2/himanshuparida2/output/github-snake.svg" />
 </picture>
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/himanshuparida) 
+  # 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/himanshuparida)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
