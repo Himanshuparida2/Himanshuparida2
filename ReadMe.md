@@ -13,11 +13,11 @@ I'm a BTech CSE student passionate about cloud technologies and building scalabl
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuparida2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuparida2/himanshuparida2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuparida2/himanshuparida2/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/himanshuparida2/himanshuparida2/output/github-snake.svg" />
+</picture>
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/himanshuparida) 
 
