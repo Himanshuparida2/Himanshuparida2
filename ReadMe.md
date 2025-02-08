@@ -11,7 +11,6 @@ I'm a BTech CSE student passionate about cloud technologies and building scalabl
 ![](https://github-readme-stats.vercel.app/api?username=himanshuparida2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=himanshuparida2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuparida2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuparida2/himanshuparida2/output/github-snake-dark.svg" />
